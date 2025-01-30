@@ -6,6 +6,7 @@ import { RecoilRoot } from 'recoil';
 
 import { ChainlitContext } from '@chainlit/react-client';
 
+// new code
 import './index.css';
 
 import { i18nSetupLocalization } from './i18n';
